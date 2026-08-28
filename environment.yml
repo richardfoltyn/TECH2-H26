@@ -1,6 +1,7 @@
 name: TECH2
 channels:
-  - defaults
+  - conda-forge
+  - nodefaults
 dependencies:
   - python=3.14.6
   - numpy=2.5.1
